@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (5.1.0)
+  - FloatingPanel (1.7.5)
+  - FSCalendar (2.8.1)
+  - GoogleMaps (3.8.0):
+    - GoogleMaps/Maps (= 3.8.0)
+  - GoogleMaps/Base (3.8.0)
+  - GoogleMaps/Maps (3.8.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.8.0):
+    - GoogleMaps/Base (= 3.8.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - PinCodeTextField (0.1.0)
+  - SearchTextField (1.2.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FloatingPanel
+  - FSCalendar
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift
+  - PinCodeTextField
+  - SearchTextField
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FloatingPanel
+    - FSCalendar
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - PinCodeTextField
+    - SearchTextField
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  FloatingPanel: bb17fd6fc7ae519f877f7bd30f4f6115a78acf07
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  GoogleMaps: 7c8d66d70e4e8c300f43a7219d8fdaad7b325a9a
+  GooglePlaces: d5f70c3e9e427964fdeca1301a665d276ccd8754
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  PinCodeTextField: a3c39be58bde3ed1d6888d0fb1d88b0a4a2277cc
+  SearchTextField: 40dc3cc57def5a211f263cac263622c163bbc25a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: bb0f5c68d85b569e3ae318f23055e769777e8f53
+
+COCOAPODS: 1.9.3
